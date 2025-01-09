@@ -1,0 +1,7 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\bin\Debug\WFParalela.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\bin\Debug\WFParalela.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\obj\x86\Debug\WFParalela.Form1.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\obj\x86\Debug\WFParalela.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\obj\x86\Debug\WFParalela.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\obj\x86\Debug\WFParalela.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s2\WFParalela\WFParalela\obj\x86\Debug\WFParalela.pdb
